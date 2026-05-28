@@ -10,7 +10,7 @@
 
 ### `> whoami`
 
-I'm a first-year CS student at NIT Patna who builds things at the intersection of ML, backend systems, and the web. I won ByteVerse 8.0 with DropsAI — a groundwater scarcity predictor for Bihar — and I'm currently building EvalForge, an automated LLM evaluation pipeline. I'm part of the Hackslash GenAI team and I take DSA seriously in C++.
+I'm a first-year CS student at NIT Patna who builds things at the intersection of ML, backend systems, and the web.
 
 I care about **understanding before using** — no black boxes, no tools stitched together blindly. I'm laying a real foundation in ML theory, system design, and clean code before I scale up.
 
