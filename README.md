@@ -110,14 +110,41 @@ Outside tech: music, video editing, scriptwriting, and occasional Pygame chaos.
 
 ---
 
+### `> trophies`
+
+*consistency over everything — every commit counts*
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kashyapanand21&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+### `> profile_views`
+
+*thanks for stopping by — hope you found something worth your time*
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kashyapanand21&color=7B8CDE&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
 ### `> connect`
+
+open to collaborating on ML/AI projects, open source, and hackathons  
+if you're building something real or just want to talk tech — reach out
+
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-kashyap-1915ew)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kashyap_anand21/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashyapanand2020@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kashyapanand21)
 
 </div>
 
